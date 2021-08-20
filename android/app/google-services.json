@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1099311539417",
+    "project_id": "animationproject-82da8",
+    "storage_bucket": "animationproject-82da8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1099311539417:android:ecf3a6c84346b1ece70ac8",
+        "android_client_info": {
+          "package_name": "com.animationproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1099311539417-b5n3uvsmtoilgv60p3i9jj13h48s73sq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.animationproject",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "1099311539417-78vkcbg64kssqhfr0iv9vtfd23magbi8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuZkpg26VSf1NOURyj9KUtYOLlEGleP2I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1099311539417-78vkcbg64kssqhfr0iv9vtfd23magbi8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
